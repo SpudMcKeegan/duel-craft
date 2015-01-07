@@ -1,0 +1,1231 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"playr",
+				"playerId"
+			],
+			[
+				"display",
+				"displayInstruction"
+			],
+			[
+				"qu",
+				"query1"
+			],
+			[
+				"bo",
+				"boatPiecesRemaining"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"que",
+				"query2"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"endPoint",
+				"endPoint"
+			],
+			[
+				"a",
+				"ajax	$.ajax()"
+			],
+			[
+				"encode",
+				"json_encode"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"player",
+				"playerId"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"pla",
+				"playerNumber"
+			],
+			[
+				"Insert",
+				"InsertSessionCode"
+			],
+			[
+				"Session",
+				"SessionCode"
+			],
+			[
+				"strpad",
+				"str_pad"
+			],
+			[
+				"has",
+				"hasClass	.hasClass"
+			],
+			[
+				"border-",
+				"border-collapse"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"cu",
+				"currentColumn"
+			],
+			[
+				"current",
+				"currentColumn"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"pa",
+				"parent	.parent()"
+			],
+			[
+				"at",
+				"attr	.attr() - single"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/www/fauxgeek.com/apps/duel-craft/index.php",
+			"settings":
+			{
+				"buffer_size": 8771,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/www/fauxgeek.com/apps/duel-craft/js/gameInit.js",
+			"settings":
+			{
+				"buffer_size": 10822,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/www/fauxgeek.com/apps/duel-craft/js/gameplay.js",
+			"settings":
+			{
+				"buffer_size": 3132,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/www/fauxgeek.com/apps/duel-craft/scripts/joinSession.php",
+			"settings":
+			{
+				"buffer_size": 1628,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/www/fauxgeek.com/apps/duel-craft/scripts/checkForHit.php",
+			"settings":
+			{
+				"buffer_size": 2327,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/kyle/Desktop/Angular/Angular Test.htm",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/loadSessionShots.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/isItMyTurnYet.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/createSession.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/setReady.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/getSessionShips.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/index.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/js/gameInit.js",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/reopenSession.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/checkForOpponent.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/joinSession.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/js/checkForHit.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/js/gameplay.js",
+		"/C/www/fauxgeek.com/apps/duel-craft/js/init.js",
+		"/C/www/fauxgeek.com/apps/duel-craft/js/ships.js",
+		"/C/www/fauxgeek.com/apps/duel-craft/css/duel-craft.css",
+		"/C/www/fauxgeek.com/apps/duel-craft/project-sbt/duel-craft.sublime-workspace",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/db-connect.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/error_log",
+		"/C/www/fauxgeek.com/apps/duel-craft/js/testing.js",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/emptyEverything.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/checkSession.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/setShip.php",
+		"/C/Users/kyle/Desktop/FizzBuzz.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/insertSessionShip.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/insertSessionShip.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/displaySessionCode.php",
+		"/C/www/fauxgeek.com/apps/dice-roller/php/db-connect.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/scripts/test.php",
+		"/Y/Projects/R&R Partners/NCL/Cheetah/20140606_NCLU_Newsletter.txt",
+		"/C/www/fauxgeek.com/apps/index.php",
+		"/C/www/fauxgeek.com/apps/duel-craft/js/game-init",
+		"/C/www/fauxgeek.com/apps/duel-craft/index.html",
+		"/C/www/nclu.com/emails/2014/2014 06 June Newsletter/eblastJune2014.html",
+		"/C/www/fauxgeek.com/apps/secret-santa/index.php",
+		"/C/www/DunnEdwards/trunk/flash/Workfolder/save_jpg.php",
+		"/C/www/fauxgeek.com/apps/dice-roller/php/create-session.php",
+		"/C/www/fauxgeek.com/apps/dice-roller/index.php",
+		"/C/www/fauxgeek.com/apps/dice-roller/roll-app.php",
+		"/C/www/fauxgeek.com/apps/dice-roller/js/dice-roller.js",
+		"/C/www/fauxgeek.com/apps/dice-roller/_backups/index.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/php/delete-session.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/php/dice-roller.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/php/logout.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/php/join-session.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/php/create-session.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/join-session.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/index.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/dice-roller.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/AJAX/sessions.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/js/dice-roller.js",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/AJAX/check-users.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/AJAX/check-rolls.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/AJAX/clear-session.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/AJAX/terminate-session.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/php/db-connect.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/sessions.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/clear-session.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/create-session.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/delete-session.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/logout.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/roll-app.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/backups/dice-roller.bak.php",
+		"/C/www/fauxgeek.com/apps/dice-roller-app/terminate-session.php",
+		"/C/www/xppgn/trunk/website/DesktopModules/sfMembership/sfMembershipStep4.ascx.cs",
+		"/C/www/xppgn/trunk/website/DesktopModules/sfMembership/sfMembershipStep4.ascx",
+		"/C/www/fauxgeek.com/apps/maze-builder/css/lightbox.css",
+		"/C/www/fauxgeek.com/apps/maze-builder/index.html",
+		"/C/www/fauxgeek.com/apps/maze-builder/js/maze-builder-init.js",
+		"/C/www/fauxgeek.com/apps/maze-builder/js/maze-builder-main.js",
+		"/C/www/fauxgeek.com/apps/maze-builder/css/style.css",
+		"/C/Users/kyle/Desktop/maze builder.txt",
+		"/C/www/fauxgeek.com/test/index.html",
+		"/C/www/fauxgeek.com/apps/maze-builder/maze-builder-main.js",
+		"/C/www/fauxgeek.com/apps/maze-builder/maze-builder-init.js",
+		"/C/www/nclu.com/emails/2014/2014 05 May Newsletter/eblastMay2014.html",
+		"/C/www/fauxgeek.com/dev/modules/admin/edit-articles-c.php",
+		"/C/www/fauxgeek.com/dev/modules/admin/edit-articles-v.php",
+		"/C/www/fauxgeek.com/dev/modules/profile/profile-c.php",
+		"/C/Users/kyle/Desktop/test.html",
+		"/C/www/fauxgeek.com/test/checkbox-thing.html",
+		"/C/www/fauxgeek.com/dev/fauxtography.php",
+		"/C/www/fauxgeek.com/dev/includes/header.php",
+		"/C/www/secondopinion/so2/sites/secondopinion-tv.org/themes/zen_ninesixty/views-view-unformatted--webisodes.tpl.php",
+		"/C/www/secondopinion/so2/sites/secondopinion-tv.org/themes/zen_ninesixty/views-view-unformatted--panelists--block.tpl.php",
+		"/C/www/secondopinion/so2/sites/secondopinion-tv.org/themes/zen_ninesixty/views-view-unformatted--episodes--block.tpl.php",
+		"/C/www/secondopinion/so2/sites/secondopinion-tv.org/themes/zen_ninesixty/zen_ninesixty.zip",
+		"/C/www/secondopinion/so2/sites/secondopinion-tv.org/themes/zen_ninesixty/views-view--episodes--block-4.tpl.php",
+		"/C/www/secondopinion/so2/sites/secondopinion-tv.org/themes/zen_ninesixty/views-view--webisodes--default.tpl.php",
+		"/C/www/secondopinion/so2/sites/secondopinion-tv.org/themes/zen_ninesixty/views-view--episodes--block-13.tpl.php",
+		"/C/www/secondopinion/so2/sites/secondopinion-tv.org/themes/zen_ninesixty/fancybox/source/jquery.fancybox.js",
+		"/C/www/secondopinion/so2/sites/all/modules/feeds_xpathparser/tests/feeds_xpathparser/issues_drupal.org.htm",
+		"/C/www/secondopinion/so2/sites/all/modules/views/help/theme-css.html",
+		"/C/www/secondopinion/so2/sites/secondopinion-tv.org/themes/zen_ninesixty/styles.css",
+		"/C/www/secondopinion/so2/sites/secondopinion-tv.org/themes/zen_ninesixty/views-view--episodes--block-12.tpl.php",
+		"/C/www/secondopinion/so2/sites/secondopinion-tv.org/themes/zen_ninesixty/views-view-unformatted--episodes--block.tpl.php.zip",
+		"/C/www/secondopinion/so2/sites/secondopinion-tv.org/modules/ds/theme/ds-display-overview-form.tpl.php",
+		"/C/www/secondopinion/so2/sites/all/modules/views/theme/views-view-fields.tpl.php",
+		"/C/www/secondopinion/so2/modules/node/node.tpl.php",
+		"/C/www/secondopinion/so2/sites/secondopinion-tv.org/themes/zen_ninesixty/jquery.slides.min.js",
+		"/C/www/secondopinion/so2/sites/secondopinion-tv.org/themes/zen_ninesixty/script.js",
+		"/C/www/secondopinion/so2/update.php",
+		"/C/www/secondopinion/so2/modules/node/content_types.inc",
+		"/C/www/secondopinion/so2/sites/secondopinion-tv.org/modules/ds/theme/ds-display-overview-views-form.tpl.php",
+		"/C/www/secondopinion/so2/modules/block/block-admin-display-form.tpl.php",
+		"/C/www/secondopinion/so2/themes/garland/page.tpl.php",
+		"/C/www/secondopinion/so2/themes/garland/block.tpl.php",
+		"/C/Users/kyle/AppData/Local/Temp/scp16608/var/www.HOLD/index.php",
+		"/C/wamp/bin/apache/apache2.2.22/conf/extra/httpd-vhosts.conf",
+		"/C/www/nclu.com/emails/2014/2014 03 March Newsletter/eblastMar2014.html",
+		"/C/www/nclu.com/emails/2014/2014 01 January Newsletter/eblastJan2014.html",
+		"/C/Users/kyle/Desktop/secondopinion/Heart Disease & Prevention _ Second Opinion.htm",
+		"/C/Users/kyle/Desktop/temp.html",
+		"/C/www/DunnEdwards/trunk/website/DesktopModules/RadMenu/RadControls/Menu/Skins/Custom/styles.css",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/wamp/bin/apache/apache2.2.22/conf/wampserver.conf",
+		"/C/www/TestCode/typo3/README.txt",
+		"/C/wamp/bin/apache/apache2.2.22/conf/httpd.conf",
+		"/Y/Projects/ROBERTS/Xerox/XPPGN/Videos/XPPGN Videos/NotforProfit.mp4.webm",
+		"/C/www/tulane.edu/trunk/website/themes/zen/tulane/templates/page.tpl.php",
+		"/C/Users/kyle/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/www/tulane.edu/trunk/website/themes/zen/tulane/js/4life.js",
+		"/C/www/tulane.edu/trunk/website/themes/zen/tulane/css/4life.css",
+		"/C/www/tulane.edu/updates/tulanechanges.html",
+		"/C/www/tulane.edu/trunk/website/themes/zen/tulane/css/main.css",
+		"/C/www/tulane.edu/trunk/website/themes/zen/tulane/css/rankings.css",
+		"/C/www/nclu.com/emails/2014/2014 02 February Newsletter/eblastFeb2014.html",
+		"/C/www/tulane.edu/trunk/website/.htaccess"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"<current file>",
+			"Current File",
+			"",
+			"selection",
+			"",
+			"File",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Dark Horse Comics",
+			"Avatar Press",
+			"Boom Entertainment",
+			"Dynamic Forces",
+			"IDW Publishing",
+			"IDW Comics",
+			"Image Comics",
+			"Images Comics",
+			"DC Comics",
+			"MArvel COmics",
+			"SessionCode",
+			"testBoard",
+			");\n",
+			"getSessionShips(",
+			"buildShips();",
+			"playerId",
+			",",
+			"`",
+			"]",
+			"[",
+			"split",
+			"c(",
+			"tempendPoint",
+			"Point2",
+			"point1",
+			" #'",
+			"1oakvacations@gmail.com\n1oakvacations@gmail.com",
+			"),(\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>",
+			"<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>",
+			"center",
+			"Click here to register</a>",
+			"–",
+			"’",
+			"/May/",
+			"dice-roller-app",
+			"header('",
+			"clear-session",
+			"sanatize.php",
+			"get",
+			"require_once('db-connect.php');",
+			"clearSession",
+			"lightBox",
+			">\n",
+			",",
+			"–",
+			"'",
+			"‘",
+			"<b>",
+			"</b>",
+			"’",
+			"http://nclemails.com/NCLNewsletter2014/Apr/",
+			"<td><input type=\"checkbox\"></td>",
+			"						<tr>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n			</tr>",
+			"<div class=\"row\">",
+			"catSlider",
+			"$rows",
+			"catSlider",
+			"class=\"views",
+			"views",
+			"sliderItem",
+			"views-views-unformatted--webisodes.tpl.php",
+			"view-views-unformatted--webisodes.tpl.php",
+			"sliderItem",
+			"fullepisode",
+			"field-fullepisode",
+			"views-field",
+			"div class=\"view-field",
+			"alt=\"Watch on YouTube\"",
+			"fancybox-outer",
+			"field-content",
+			"<span class=\"field-content\">",
+			"rotator",
+			"status",
+			"status 	",
+			"SELECT",
+			"view-episodes",
+			"<div class=\"view view-episodes",
+			"class=\"view",
+			"class=\"view\"",
+			"view",
+			"class=\"content\"",
+			"content",
+			"slidesjs-index",
+			"view-display-id-block_4",
+			"view-id-episodes",
+			"view-episodes",
+			"block-4.tpl.php",
+			"views-view--episodes--block-4.tpl.php",
+			"field-content",
+			"fi",
+			"field-content",
+			"div",
+			"slidesjs-previous slidesjs-navigation",
+			"field-content",
+			"views-field-field-fullepisode-embed",
+			"$rows",
+			"catSlider",
+			"PhD",
+			"A>",
+			"<A",
+			"<br>",
+			"ul",
+			"li",
+			"div",
+			"span",
+			"UL>",
+			"<DIV",
+			"DIV>",
+			"SPAN>",
+			"<SPAN",
+			"LI>",
+			"LI",
+			"DIV",
+			"<br>",
+			"<li>",
+			"<ul>",
+			"<div style=\"align: center\">",
+			"</DIV",
+			"<DIV",
+			"</SPAN",
+			"</SPAN>",
+			"<SPAN>",
+			"<p>&nbsp;</p>",
+			"</STRONG>",
+			"<STRONG>",
+			"</P>",
+			"<P>",
+			"™"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"sessionCode",
+			"', '",
+			"",
+			"tempEndPoint",
+			"endPoint",
+			"startPoint",
+			"),\n(",
+			"),\n\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>",
+			"<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>",
+			"<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td>\n						<td></td><td></td>",
+			"Click here</a> to register",
+			"-",
+			"'",
+			"/June/",
+			"header(\"",
+			"require_once('php/db-connect.php');",
+			"','",
+			"-",
+			"'",
+			"<strong>",
+			"</strong>",
+			"'",
+			"http://nclemails.com/NCLNewsletter2014/May/",
+			"						<tr>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n				<td><input type=\"checkbox\"></td>\n			</tr>",
+			"a>",
+			"<a",
+			"<br />",
+			"ul",
+			"li",
+			"div",
+			"span",
+			"ul>",
+			"<div",
+			"div>",
+			"span>",
+			"<span",
+			"li>",
+			"li",
+			"<div>",
+			"<br />",
+			"<ul>",
+			"<div align=\"center\">",
+			"</div",
+			"<div",
+			"</span",
+			"</span>",
+			"<br />",
+			"</strong>",
+			"<strong>",
+			"</p>",
+			"<p>",
+			"&trade;",
+			"&reg;",
+			"\"",
+			"'",
+			"Mar/",
+			"font-size: 40px; width: 78%; top: 60px; left: 60px; line-height: 34px;",
+			"<style>\n	.fancybox-inner{overflow: hidden !important; }\n</style>\n<div id=\"tulane\">\n	<div class=\"mainSlides\">\n		<!-- 1.0 What Makes Tulane Worth it? -->\n		<div class=\"active\">\n			<img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.0.jpg\" />\n			<p class=\"photoCap\">\n				Photo by Sally Asher</p>\n			<h1 style=\"width: 400px; right: 56px; top: 36px;\">\n				<span class=\"green\" style=\"font-size: 30px;\">The $61,000 question:</span><br />\n				what makes tulane worth it?\n			</h1>\n		</div>\n\n		<!-- 2.0 Hello Dalai! -->\n		<div>\n			<a class=\"modal\" href=\"#modal1\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.1.jpg\" /> </a>\n			<h1 class=\"greenBack\" style=\"top: 40px; left: 450px; width: 220px;\">\n				HELLO,<br />\n				<span class=\"green\">DALAI!</span><br />\n				<span class=\"innerPara\">THE CHANCE TO MEET WORLD LEADERS. HOT ARTISTS, MOVERS AND SHAKERS. PLUS, THE OCCASIONAL MIGHTY MONK.</span><br />\n				<a class=\"modal clicker\" href=\"#modal1\" style=\"margin-top: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryRead.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 3.0 FACT: Research -->\n		<div style=\"background-color: #dc7a26;\">\n			<h1 class=\"white\" style=\"font-size: 40px; width: 78%; top: 60px; left: 60px; line-height: 40px;\">\n				RESEARCH TAKES US <br />\n				<span class=\"darkGreen\">\n					AROUND THE WORLD <br />\n					AND ACROSS THE STREET.<br />\n				</span>\n				<br />\n				<span class=\"lightOrange innerPara\">Our undergrads research wrens in Australia, architecture in Italy, antibiotic resistance in Tulane's facilities, and everything in between.</span>\n			</h1>\n		</div>\n\n		<!-- 4.0 QUOTE: Rituals, Festivals, Cultures, Holdays... -->\n		<div style=\"background-color: #0f6599;\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\"  style=\"font-size: 36px; width: 80%\">\n				I'VE SEEN <span class=\"green\">RITUALS, FESTIVALS, CULTURES, HOLIDAYS, PEOPLE, MUSIC, AND FOOD</span> THAT NONE OF MY FRIENDS BACK HOME COULD EVEN IMAGINE.\n				<br />\n				<span class=\"source lightOrange innerPara\">Jessica Katz '14</span>\n				<br /><br />\n				<span class=\"innerPara\">New Orleans is frequently called the northernmost Caribbean city. Tulane is the closest you can get to studying abroad without a passport.</span>\n			</h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 104px; right: 157px;\" />\n		</div>\n\n		<!-- 5.0 Tulane Grads Rock the World -->\n		<div>\n			<a class=\"modal\" href=\"#modal6\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.5.3.jpg\" /></a>\n			<h1 class=\"bottomLeft\" style=\"width: 325px; left: 370px; top: 50px\">\n				Tulane Grads<br />\n				<span class=\"green\">Rock The<br />World.</span>\n				<span class=\"innerPara\"> BONNAROO. BLOOMBERG. HBO. CDC. DUPONT. KATE SPADE. YELP.<br />\n				<br />\n				TULANE GRADS MAKE <span class=\"yellow\">THE MOST OUT OF MAKING A LIFE.</span></span> <a class=\"modal clicker\" href=\"#modal6\" style=\"margin-top: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryRead.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 6.0 High Tea with an International Spy -->\n		<div>\n			<a class=\"storyModal modal\" href=\"#modal4\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.3.jpg\" /> </a>\n			<p class=\"photoCap\">\n				Photo by Ryan Rivet, New Wave</p>\n			<h1 class=\"bottomRight greenBack\" style=\"float: left; width: 75%; height: 120px; top: 220px\">\n				<span class=\"upper\" style=\"float: left; width: 80%;\">High tea With an <span class=\"green\">international spy.</span></span><br />\n				<span class=\"innerPara lower\" style=\"width: 80%;\">CHATTING WITH A BRITISH SPY IN THE HOME OF ONE OF AMERICA&#39;S MOST INFLUENTIAL POLITICAL STRATEGISTS? THAT&#39;S CLASS &mdash; TULANE STYLE.</span> <a class=\"modal clicker storyModal\" href=\"#modal4\" style=\"bottom: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryRead.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 7.0 FACT: More than 500 Miles Away -->\n		<div style=\"background-color: #dc7a26;\">\n			<h1 class=\"white\" style=\"font-size: 38px; width: 85%; top: 70px; left: 70px; line-height: 40px;\">\n				SEVENTY-FIVE PERCENT OF TULANE STUDENTS COME FROM MORE THAN <span class=\"darkGreen\">500 MILES AWAY.</span>\n				<br/><br/>\n				<span class=\"innerPara\">Tulane students come from 48 countries and all 50 states. Our 120,000 graduates live, work, and do things that matter all over the globe.</span>\n			</h1>\n		</div>\n\n		<!-- 8.0 QUOTE: Rituals, Festivals, Cultures, Holdays... -->\n		<div style=\"background-color: #0f6599;\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\"  style=\"font-size: 36px; width: 70%\">\n				I’VE INTERNED WITH NBC UNIVERSAL, TELEMUNDO, AND MSNBC. <span class=\"green\">IT ALL STARTED WHEN I MET A RECRUITER ON CAMPUS.</span>\n				<br />\n				<span class=\"source lightOrange innerPara\">Brandon Faske '14</span>\n				<br /><br />\n				<span class=\"innerPara\" style=\"margin-top: 30px\">Students at Tulane have opportunities to meet with more than 250 potential employers every year.</span>\n			</h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 105px; right: 120px;\" />\n		</div>\n\n		<!-- 9.0 Go from BIG EASY to Big Apple -->\n		<div>\n			<a class=\"modal\" href=\"#modal9\"><img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.13.2.jpg\" /></a>\n			<h1 style=\"font-size: 41px; width: 40%; top: 50px; left: 50px;\">\n				Go from<br />\n				<span class=\"green\">big easy</span> to<br />\n				big apple <span class=\"innerPara\">92 businesses networking with 300 business majors in NYC at the biggest Freeman Day ever.</span><br />\n				<a class=\"modal clicker\" href=\"#modal9\" style=\"margin-top: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryRead.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 10.0 Hot Jazz. Cool Jobs -->\n		<div>\n			<a class=\"modal\" href=\"#modal10\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.15.jpg\" /></a>\n			<p class=\"photoCap\">\n				Photo by Sally Asher</p>\n			<h1 class=\"bottomRight greenBack\">\n				Hot Jazz.<br />\n				<span class=\"green\">Cool jobs.</span><span class=\"innerPara\" style=\"width: 65%\">Welcome to the birthplace of jazz &mdash; and site of your next internship.</span> <a class=\"modal clicker\" href=\"#modal10\" style=\"margin-top: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryRead.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 11.0 FACT: BUSINESS -->\n		<div style=\"background-color: #dc7a26;\">\n			<h1 class=\"white\" style=\"font-size: 40px; width: 85%; top: 60px; left: 60px; line-height: 40px;\">\n				<em>BARRON'S</em> LIKES THE WAY WE DO <span class=\"darkGreen\">BUSINESS.</span>\n				<span class=\"innerPara lightOrange\" style=\"margin-top: 30px;\">Tulane's Burkenroad Institute received high praise from Barron's. Clearly, they approve of the Institute's research on resolving ethical dilemmas confronting today's global business leaders.</span>\n			</h1>\n		</div>\n\n		<!-- 12.0 QUOTE: With Every Step -->\n		<div style=\"background-color: #0f6599;\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\" style=\"font-size: 40px; width: 85%;\">\n				<span class=\"green\">With Every Step, there is something new</span> to experience, explore, or get excited about.<br />\n				<span class=\"source lightOrange\">Stephanie Braverman &#39;14</span>\n				<br /><br />\n				<span class=\"innerPara\"><em>The Princeton Review</em> gives Tulane top marks for quality of life.</span>\n			</h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 126px; right: 137px;\" />\n		</div>\n\n		<!-- 13.0 QUOTE: What a Sweet Ride -->\n		<div class=\"greenBackground\">\n			<img alt=\"hero\" src=\"/themes/zen/tulane/images/4life/opt_1.7\" />\n			<p class=\"photoCap\">Photo by Sally Asher</p>\n			<h1 style=\"top: 100px; left: 30px; width: 350px;\">\n				What a <span class=\"green\">sweet ride!</span> \n				<span class=\"innerPara\" style=\"font-size: 16px\">\n						It&#39;s so easy to get around in the Big Easy. The Saint Charles Streetcar zips past Tulane 100 Times a day. And with a Jazzy Pass, it&#39;s the cheapest sweet ride around. \n						<span class=\"green\">What a deal!</span>\n				</span>\n			</h1>\n		</div>\n\n		<!-- 14.0 Pralines, Poboys, and Pods -->\n		<div>\n			<a class=\"modal\" href=\"#modal8\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.12.jpg\" /></a>\n			<h1 class=\"greenBack\" style=\"width: 80%; top: 20px; left: 40px;\">\n				<span style=\"float: left; width: 80%; padding: 0px;\">\n					Pralines, poboys,<br />\n					<span class=\"green\">and pods?</span> \n				</span> \n				<a class=\"modal clicker\" href=\"#modal8\" style=\"margin-top: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryRead.png\" width=\"72\" /></a> \n				<span class=\"innerPara\" style=\"width: 80%;\">\n					Think small. Make a big difference.<br />\n					That’s the kind of opportunity students<br /> \n					at Tulane can't resist.\n				</span>\n			</h1>\n		</div>\n\n		<!-- 15.0 FACT: And that's just the Bs -->\n		<div style=\"background-color: #dc7a26;\">\n			<h1 class=\"white\" style=\"font-size: 40px; width: 90%; top: 50px; left: 50px; line-height: 40px;\">\n				<span class=\"darkGreen\">MADRID, TEL AVIV, CUBA, <br />\n				HONDURAS, COPENHAGEN,<br />\n				SYDNEY, PRAGUE, AND</span><br />\n				AUDUBON PARK\n				<br /><br />\n				<span class=\"darkGreen\" style=\"font-size: 24px; position:relative; top: 8px; line-height: 25px;\">\n					TRAVEL THE WORLD. <br />\n					THEN COME HOME.\n				</span>\n				<span class=\"innerPara lightOrange\" style=\"padding-top: 35px;\">About a third of Tulane students study or do research abroad. But their favorite place is right here in NOLA – especially during Mardi Gras.</span>\n			</h1>\n		</div>\n\n		<!-- 16.0 QUOTE: I see my friend's pictures -->\n		<div style=\"background-color: #0f6599\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\" style=\"width: 80%; font-size: 35px;\">\n				I see my friends&#39; pictures from other schools and think, yeah, we do that here. Then i look at my pictures and go, but <span class=\"green\"><em>this</em> doesn&#39;t happen anywhere else.</span><br />\n				<span class=\"source lightOrange\">Lindsey Curewitz &#39;14</span><br /><br>\n				<span class=\"innerPara\">Take unique classes at Tulane, like Marine Biology (with frequent trips to the Gulf) and Music Culture of NOLA.</span>\n			</h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 77px; right: 102px;\" />\n		</div>\n\n		<!-- 17.0 Real Things That Matter for Real People -->\n		<div>\n			<a class=\"modal\" href=\"#modal7\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.8.jpg\" /></a>\n			<p class=\"photoCap\">Photo by Paula Burch-Celentano</p>\n			<h1 class=\"bottomLeft greenBack\" style=\"width: 67%; left: 180px; height: 160px;\">\n				<span class=\"green\">\n					Real things<br />\n					that matter<br />\n					for real people. \n				</span> \n				<span class=\"innerPara\" style=\"width: 70%;\">One really cool thing about Tulane is that you don&#39;t have to wait four years to start making a difference.</span> \n				<a class=\"modal clicker\" href=\"#modal7\" style=\"bottom: 8px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryVideo.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 18.0 One Kickass Freshman Orientation -->\n		<div>\n			<img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.10.jpg\" />\n			<p class=\"photoCap\">\n				Photo by Sally Asher</p>\n			<h1 class=\"greenBack\" style=\"top: 50px; left: 20px; width: 300px;\">\n				One Kickass <span class=\"green\">Freshman Orientation.</span><span class=\"innerPara\">\n					Swamp tours. Art in City Park. Bowling at a certified landmark. And more jambalaya than a plate should hold. Welcome to Tulane&#39;s NOLA Experience.\n					<br />\n					<span class=\"green\">Priceless.</span>\n				</span>\n			</h1>\n		</div>\n\n		<!-- 19.0 QUOTE: Networked with Tulane Alums -->\n		<div class=\"greenBackground\" style=\"background-color: #0f6599\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\" style=\"width: 80%; font-size: 35px;\">\n				I'VE VISITED OIL REFINERIES, SPOKEN AT A NATIONAL CONFERENCE, <span class=\"green\">AND NETWORKED WITH TULANE ALUMS ACROSS THE COUNTRY.</span>\n				<br />\n				<span class=\"source lightOrange\">Stephen Lee '14</span>\n				<br /><br />\n				<span class=\"innerPara\">100 percent of Tulane students participate in experiential learning opportunities.</span>\n			</h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 109px; right: 307px;\" />\n		</div>\n\n		<!-- 20.0 QUOTE: BEST OF MY LIFE -->\n		<div class=\"greenBackground\" style=\"background-color: #0f6599\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\" style=\"width: 75%; font-size: 40px;\">\n				These past four years have been the best of my life. <span class=\"green\">I can&#39;t imagine having spent them any other way.</span><br />\n				<span class=\"source lightOrange\">Owen Knight &#39;14</span>\n				<br /><br />\n				<span class=\"innerPara\"><em>The Princeton Review</em> rates Tulane Number 4 in the nation for happiest students. </span>\n			</h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 90px; right: 320px;\" />\n		</div>\n\n		<!-- 21.0 Ultimate Comfort Food -->\n		<div class=\"greenBackground\">\n			<a class=\"modal\" href=\"#modal5\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.4.jpg\" /> </a>\n			<h1 class=\"bottomRight greenBack\" style=\"width: 200px\">\n				<span class=\"green\">Ultimate</span><br />\n				Comfort<br />\n				Food. <span class=\"innerPara\">A CITY KNOWN FOR SINFULLY GOOD EATS. A UNIVERSITY DEVOTED TO PUBLIC HEALTH. DELICIOUS POSSIBILITIES.</span><br />\n				<a class=\"modal clicker\" href=\"#modal5\" style=\"margin-top: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryVideo.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 22.0 Change the Rhythm of the City -->\n		<div>\n			<a class=\"modal\" href=\"#modal12\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.17.2.jpg\" /> </a>\n			<h1 style=\"top: 100px; left: 50px; width: 300px;\">\n				Change The Rhythm<br />\n				<span class=\"green\">of the city.</span> <span class=\"innerPara lower\">THINK YOU HAVE WHAT IT TAKES TO BUILD A BETTER CITY? <span class=\"yellow\">BRING IT ON!</span></span><br />\n				<a class=\"modal clicker\" href=\"#modal12\" style=\"margin-top: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryRead.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 23.0 FACT: $102 MILLION -->\n		<div style=\"background-color: #dc7a26;\">\n			<h1 class=\"white\" style=\"font-size: 40px; width: 80%; top: 50px; left: 50px; line-height: 40px;\">\n				In 2013-2014, MORE THAN <span class=\"darkGreen\">$102 MILLION</span> WAS AWARDED IN TULANE-FUNDED <span class=\"darkGreen\">GRANTS AND SCHOLARSHIPS.</span><br /><br />\n				<span class=\"innerPara lightOrange\">99 percent of freshmen with demonstrated need were offered financial aid. The average total package was $34,542.</span>\n			</h1>\n		</div>\n\n		<!-- 24.0 QUOTE: THAT’S MY TULANE EXPERIENCE. -->\n		<div style=\"background-color: #0f6599\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\" style=\"width: 80%; font-size:34px\">\n				I GOT A FIRST-CLASS EDUCATION, WORKED ALONGSIDE CREATIVE PROFESSORS, DANCED AT MARDI GRAS, AND MET PEOPLE FROM ALL OVER THE WORLD. <span class=\"green\">THAT’S MY TULANE EXPERIENCE.</span><br />\n				<span class=\"source lightOrange\">John Owens '14</span>\n				<br /><br /><br />\n				<span class=\"innerPara\">Tulane is more than an education; it's a way of life.</span>\n			</h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 82px; right: 183px;\" />\n		</div>\n\n		<!-- FACT: And that's just the Bs -->\n		<!--div style=\"background-color: #dc7a26;\">\n			<h1 class=\"white\" style=\"font-size: 70px; width: 90%; top: 30px; left: 50px;\">\n				Beijing<br />\n				Berlin<br />\n				Brazil<br />\n				<span class=\"darkGreen\" style=\"font-size: 38px; position:relative; top: 8px;\">And that&#39;s just the B&#39;s, Baby!</span> \n				<span class=\"innerPara white\" style=\"padding-top: 35px;\">100 Percent of Tulanians<br />\n					Study Abroad, Intern,<br />\n					or do Service Learning.<br />\n					<span class=\"lightOrange\">How&#39;s that for value?</span>\n				</span>\n			</h1>\n		</div-->\n\n\n		<!-- QUOTE: Tulane Challenged Me -->\n		<!--div style=\"background-color: #0f6599\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\" style=\"width: 82%;\">\n				<span class=\"green\">Tulane challenged me</span> to be adventurous. I was a bostonian who didn&#39;t like seafood. Now i can&#39;t imagine life without crawfish.<br />\n				<span class=\"source lightOrange\">Jill deRosas &#39;14</span></h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 52px; right: 343px;\" />\n		</div-->\n	</div>\n	\n	<!-- 2.1 Modal: Dalai! -->\n	<div class=\"modalDiv detailAnswer staticParagraph\" id=\"modal1\">\n		\n		<!-- Main Blurb -->\n		<div>\n			<h2 style=\"line-hieght: 1.0\">\n				You never know who you might meet at Tulane.</h2>\n			<p class=\"ieFix\">U.S. Presidents George H.W. Bush and Bill Clinton. Brad Pitt. Ellen DeGeneres. Snoop Dog. Superbowl champs, Saints quarterback Drew Brees and head coach Sean Payton. Anderson Cooper. Janet Reno. Ralph Nader. The guy who founded Yahoo founder, David Filo! And Ruth Benerito, invented no-iron cotton. Even Hanson. (Yes, the boy band!) Tulane is a must-stop in a city that will never stop amazing you.</p>\n		</div>\n\n		<div class=\"innerSlider\">\n			<!-- 2.1 Anderson Cooper -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1a.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">Anderson Cooper speaking at graduation.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Sally Asher</p>\n				</div>\n			</div>\n			<!-- 2.2 Jim Parsons -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1b.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">Jim Parsons from <em>The Big Bang Theory</em> filming an episode of <em>Who Do You Think You Are?</em> at Tulane.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Sally Asher</p>\n				</div>\n			</div>\n			<!-- 2.3 Snoop Dogg -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1c.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">Snoop Dogg gets into the Green Wave.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Tulane Public Relations</p>\n					<!--p><span style=\"font-size: 10px; font-style: italic;\">Photo by Tulane Public Relations</span></p--></div>\n			</div>\n			<!-- 2.4 Harry SHearer -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1d.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">Emmy- and Grammy-nominated Harry Shearer, star of <em>Spinal Tap</em> and <em>The Simpsons</em>.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Tulane Public Relations</p>\n					<!--p><span style=\"font-size: 10px; font-style: italic;\">Photo by Tulane Public Relations</span></p--></div>\n			</div>\n			<!-- 2.5 Bill Clinton -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1e.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">Former Presidents Bill Clinton and George H.W. Bush at Tulane graduation.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Sally Asher</p>\n				</div>\n			</div>\n			<!-- 2.6 Ellen -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1f.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">Ellen DeGeneres and Harry Connick, Jr. join the second line at Tulane&#39;s graduation.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Sally Asher</p>\n				</div>\n			</div>\n			<!-- 2.7 Saints -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1g.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">Superbowl Champs, the New Orleans Saints, practicing on Tulane&#39;s campus.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Sally Asher</p>\n				</div>\n			</div>\n			<!-- 2.8 James S. Turley -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1h.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">James S. Turley, chairman and CEO of Ernst &amp; Young discussed global ethics at the Burkenroad Symposium</p>\n					<!--p style=\"font-size:10px; color: #000;\">Photo by Sally Asher</p-->\n				</div>\n			</div>\n			<!-- 2.9 Chaz Bono -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1i.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 10px;\">Chaz Bono spoke about his bestselling book, <em>Transition: Becoming Who I Was Meant to Be</em>, at an event planned by student-run Tulane University Campus Programming.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Sally Asher</p>\n				</div>\n			</div>\n		</div>\n	</div>\n\n	<!-- 5.1 Modal: Tulane Grads -->\n	<div class=\"detailAnswer powerFacts\" id=\"modal6\">\n		<p style=\"margin-right: 10px;\">\n			<strong class=\"green\">It takes grit, determination, and a heck of a lot of chutzpah to make it at Tulane.</strong> But after four years, our graduates have the chops to compete in any industry, tackle any problem, solve any riddle.\n		</p>\n		<p style=\"margin-right: 10px;\">\n			They prove it daily at places like NBC, Sirius Radio, Google, Delta, Bloomberg, The CDC and the U.S. State Department. They&#39;re biochemists, doctors, lawyers, music execs, teachers, film producers, actors. The list goes on. Our parting advice to them: Keep on Rocking.\n		</p>\n		<div class=\"third\">\n			<h1 style=\"color: #0f6599\">Where They Work</h1>\n			<ul class=\"job-list\">\n				<li>Presidential Management Fellow, Centers for Disease Control</li>\n				<li>Research Coordinator, Children's Healthcare of Atlanta</li>\n				<li>Market Analyst, Northwestern University</li>\n				<li>Policy Analyst, Google</li>\n				<li>Vice President, Stifel</li>\n				<li>Foreign Service Officer, U.S. Department of State</li>\n				<li>Chief of Staff, State of Maryland</li>\n				<li>Brand Public Relations, The Richards Group</li>\n				<li>Network Security &amp; Cloud Solutions Analyst, Vail Resorts</li>\n				<li>Museum Educator, Denver Art Museum</li>\n				<li>Chemical Engineer, INEOS USA LLC</li>\n				<li>Program Manager, University of Texas Cancer Center</li>\n				<li>Assistant Regional Director, American Jewish Committee</li>\n				<li>CEO, Hotel Bergs</li>\n				<li>Epidemiologist/Researcher, Wits Health Consortium</li>\n				<li>Chief Stadia Officer, VP of Marketing, FIFA Women's World Cup Canada 2015</li>\n				<li>VP of Marketing, Rebel Entertainment</li>\n				<li>Journalist, <em>Investor's Business Daily</em></li>\n				<li>Comedy Agent, APA, Inc.</li>\n				<li>Tax Accountant, Marcum LLP</li>\n				<li>Radiation Oncologist, Premiere Oncology</li>\n				<li>Global Web Producer, Royal Caribbean International</li>\n				<li>CEO, Bass Egg LLC</li>\n				<li>Analyst, Gadinski Real Estate</li>\n				<li>Epidemiologist, LA Office of Public Health</li>\n				<li>Process Safety Engineer, Shell Oil</li>\n				<li>Director of Finance and Operations, Crescent City Schools</li>\n				<li>Senior Consultant/TV Host, RPM &amp; CO/NOLA Wrap Up</li>\n				<li>International PR Associate, Tory Burch</li>\n				<li>Logistics Coordinator, Ideeli</li>\n				<li>Research Strategist, <em>Hearst Magazine</em></li>\n				<li>Sales Account Manager, Bloomberg</li>\n				<li><em>Lifestyle Digital Group Assistant, Time Inc.</em></li>\n				<li>Casting, Tara Rubin Casting</li>\n				<li>Senior Consultant, Razorfish</li>\n				<li>Attorney, Kings County DA</li>\n				<li>Procurement Associate, Kate Spade New York</li>\n				<li>Sales &amp; Marketing Manager, Universal Studios Waterpark</li>\n				<li>Financial Analyst, Wells Fargo Bank</li>\n				<li>Research Associate, Calithera Biosciences, Inc.</li>\n				<li>Marketing Manager, Marketsource</li>\n				<li>Marketing Strategy/Planning, Carat</li>\n				<li>Deputy Director, Pacific NW Chamber of Commerce</li>\n				<li>Strategist, Wunderman</li>\n			</ul>\n		</div>\n		<div class=\"third\">\n			<h1 style=\"color: #0f6599\">Where They Go to Grad School</h1>\n			<ul class=\"job-list\">\n				<li>American University</li>\n				<li>Auburn University</li>\n				<li>Baylor College of Medicine</li>\n				<li>Boston College</li>\n				<li>Boston University</li>\n				<li>Brown University</li>\n				<li>California Institute of Technology</li>\n				<li>City University London</li>\n				<li>College of William &amp; Mary</li>\n				<li>Columbia University</li>\n				<li>Cornell University</li>\n				<li>Creighton University</li>\n				<li>DePaul University</li>\n				<li>Emory University</li>\n				<li>Florida State University</li>\n				<li>George Washington University</li>\n				<li>Georgetown University</li>\n				<li>Graduate Institute of International and Development Studies</li>\n				<li>Harvard University</li>\n				<li>Hofstra University</li>\n				<li>Massachusetts General Institute of Health Professions</li>\n				<li>Medical College of Wisconsin</li>\n				<li>Michigan State University</li>\n				<li>New York University</li>\n				<li>Ohio State University</li>\n				<li>Rutgers University</li>\n				<li>Stanford University</li>\n				<li>Temple University</li>\n				<li>The Chicago School of Professional Psychology</li>\n				<li>Tulane University</li>\n				<li>University of Alabama, Birmingham</li>\n				<li>University of Arizona</li>\n				<li>University of California</li>\n				<li>University of California-Davis</li>\n				<li>University of California-Irvine</li>\n				<li>University of California-Los Angeles</li>\n				<li>University of California-Santa Barbara</li>\n				<li>University of Chicago</li>\n				<li>University of Colorado</li>\n				<li>University of Florida</li>\n				<li>University of Georgia</li>\n				<li>University of Hawaii at Manoa</li>\n				<li>University of Illinois</li>\n				<li>University of London</li>\n				<li>University of Maryland</li>\n				<li>University of Michigan</li>\n			</ul>\n		</div>\n		<div class=\"third\">\n			<h1 style=\"color: #0f6599\">\n				Where They Live\n			</h1>\n			<ul class=\"job-list\">\n				<li>New Orleans</li>\n				<li>New York City</li>\n				<li>Malta</li>\n				<li>Trinidad</li>\n				<li>Monterrey</li>\n				<li>San Francisco</li>\n				<li>Hong Kong</li>\n				<li>New Delhi</li>\n				<li>Johannesburg</li>\n				<li>London</li>\n				<li>Vancouver</li>\n				<li>Bogota</li>\n				<li>Chicago</li>\n				<li>Lima</li>\n				<li>Tokyo</li>\n				<li>Kuala Lumpur</li>\n				<li>Cardiff</li>\n				<li>San Juan</li>\n				<li>Paris</li>\n				<li>Boston</li>\n				<li>Rabat</li>\n				<li>Guaynabo</li>\n				<li>Bavaria</li>\n				<li>Brunei</li>\n				<li>Amsterdam</li>\n				<li>Geneva</li>\n				<li>Atlanta</li>\n				<li>Saint Louis</li>\n				<li>Dallas</li>\n				<li>Denver</li>\n				<li>Houston</li>\n				<li>Miami</li>\n				<li>Los Angeles</li>\n				<li>Istanbul</li>\n				<li>Orlando</li>\n				<li>Philadelphia</li>\n				<li>Seattle</li>\n				<li>Rabat, Morocco</li>\n				<li>Bavaria</li>\n				<li>Toronto</li>\n				<li>Washington, D.C.</li>\n				<li>Austin</li>\n				<li>Baltimore</li>\n				<li>Raleigh/Durham</li>\n				<li>Nashville</li>\n				<li>Baton Rouge</li>\n				<li>Tampa/St. Petersburg</li>\n				<li>Little Rock</li>\n				<li>Jacksonville</li>\n				<li>Albuquerque</li>\n			</ul>\n		</div>\n	</div>\n\n	<!-- 6.1 Modal: High Tea -->\n	<div class=\"modalDiv detailAnswer story\" id=\"modal4\">\n		<h1 class=\"green\">\n			Only at Tulane. Only in New Orleans.\n		</h1>\n		<div class=\"col1\">\n			<p>Sure, professors at other places invite students to their homes. But at Tulane, one of our professors happens to be James Carville, American political commentator, media personality, and lead strategist for Bill Clinton&#39;s presidential campaign.</p>\n		</div>\n		<div class=\"col2\">\n			<p>And when a guy like Carville invites you to his house&mdash;it&rsquo;s to meet a real-life international man of mystery, Richard Thompson. Carville&rsquo;s &ldquo;Culture of Politics&rdquo; class sat down with the British Secret Intelligence Service&rsquo;s former Afghanistan station chief for an intimate discussion. Tea, of course, was served.</p>\n			<img alt=\"spy\" class=\"storyImg\" src=\"/themes/zen/tulane/images/4life/opt_1.3.2.jpg\" />\n		</div>\n	</div>\n\n	<!-- 9.1 Modal: Go from BIG EASY -->\n	<div class=\"modalDiv detailAnswer staticParagraph\" id=\"modal9\">\n		<div>\n			<p>\n				<strong><span class=\"green\">Get face-to-face with scores of prospective employers.</span></strong><br />\n				Freeman Days let students meet and interview with lots of different companies. Every year, Freeman School of Business students travel to New York City for a networking event organized just for them. Freeman is well known in the Big Apple. This year, the NASDAQ gave the School an extra special Times Square birthday wish!<br />\n				<a href=\"http://www.freeman.tulane.edu/freemandays/\">Read More</a>\n			</p>\n		</div>\n		<div>\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.13.1.jpg\" /></div>\n		</div>\n	</div>\n\n	<!-- 10.1 Modal: Hot Jobs. Cool Jazz. -->\n	<div class=\"detailAnswer video\" id=\"modal10\">\n		<div class=\"vidWrapper\" style=\"width: 100%; padding-right: 0px;\">\n			<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"//www.youtube.com/embed/FBbr1aa-MC0\" style=\"width: 100%; height: 404px;\" width=\"560\"></iframe>\n			<div>\n				<p style=\"padding-top: 20px;\">\n					<span class=\"green\" style=\"font-weight: bold\">George Wilde came to Tulane to study philosophy.</span> As a musician, though, he wasted no time diving into New Orleans&#39; thriving musical culture. He interned at Roots of Music and Preservation Hall. And he helped launch the Trombone Shorty Academy, mentoring the next gen of NOLA musicians. George&#39;s story may be extraordinary, but it&#39;s not unusual. That&#39;s just the way Tulanians <em>rouler</em>.\n				</p>\n				<p>Read <a href=\"http://tulanepsip.wordpress.com/2013/04/29/music-is-a-way-to-overcome-trials-and-lead-a-successful-and-fulfilling-life-a-look-at-george-wilde-and-the-trombone-shorty-foundation/\">George&#39;s blog</a> about the Trombone Shorty Academy.</p>\n				<p>BTW &mdash; George&#39;s internship with Preservation Hall turned into a paying gig. Only at Tulane. Only in New Orleans.</p>\n			</div>\n		</div>\n	</div>\n\n	<!-- 14.1 Modal: Pralines -->\n	<div class=\"modalDiv detailAnswer staticParagraph\" id=\"modal8\">\n		<div>\n			<h2 class=\"green\">Build up the economy&mdash;one small business at a time.</h2>\n			<p>\n				Emphasis on SMALL. Students in the Tulane School of Architecture's UrbanBuild program develop, design, and build tiny, mobile \"pods\" that help local retailers set up shop. It’s quick, affordable, and easy. We’re changing the way small business works—and moves. We call that real solutions for real people.<br />\n				<a href=\"http://architecture.tulane.edu/news/2013/08/article-638\">Read More</a>\n			</p>\n		</div>\n		<div class=\"innerSlider\">\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/1.12.1a.jpg\" /></div>\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/1.12.1b.jpg\" /></div>\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/1.12.1c.jpg\" /></div>\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/1.12.1d.jpg\" /></div>\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/1.12.1e.jpg\" /></div>\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/1.12.1f.jpg\" /></div>\n		</div>\n		<p class=\"innerPhotoCap\">All photos by UrbanBuild</p>\n	</div>\n\n	<!-- 17.1 Modal: Real Things that matter -->\n	<div class=\"detailAnswer video\" id=\"modal7\">\n		<div class=\"vidWrapper\" style=\"height: 315px;\">\n			<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"//www.youtube.com/embed/JK7NZCG99kk\" width=\"420\"></iframe>\n		</div>\n		<div>\n			<p><span class=\"green\" style=\"font-weight: bold\">Why wait until graduation to do what&rsquo;s right?</span> Haley Burns was barely a sophomore when she founded Fund 17, a student-run micro-financing organization to serve low-income entrepreneurs. Recently, Fund 17 won a $10,000 NewDay Challenge grant. Now they can expand their operations. And do more that matters for real people.\n		</div>\n	</div>\n\n	<!-- 21.1 Modal: Ultimate Food -->\n	<div class=\"detailAnswer video\" id=\"modal5\">\n		<div class=\"vidWrapper\" style=\"height: 315px;\">\n			<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"//www.youtube.com/embed/goFb-gnZHyQ\" width=\"420\"></iframe>\n		</div>\n		<div>\n			<p><span class=\"green\" style=\"font-weight: bold;\">Who knew getting healthy could be so delicious?</span> We teach students and the community the tips, tricks, and tools they need to heal themselves from the inside out. High blood pressure? Cardiac disease? Diabetes? What else would you expect from a university known for public health in a city known for food?</p>\n		</div>\n	</div>\n\n	<!-- 22.1 Modal: Change the Rhythm -->\n	<div class=\"modalDiv detailAnswer staticParagraph\" id=\"modal12\">\n		<div>\n			<p><strong><span class=\"green\">Putting theory into practice&mdash;that&#39;s what Tulanians do.</span></strong></p>\n			<p>For example, students work with our Prevention Research Center to help make it easier and safer for people to get around NOLA on bike, on foot, or on public transportation.<br /><a href=\"http://tulane.edu/publichealth/pressroom/plans-for-complete-streets-roll-forward-in-nola.cfm/\">Read More</a></p>\n		</div>\n		<div>\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.17.1.jpg\" /></div>\n		</div>\n	</div>\n\n	<!-- Modal:  -->\n	<!--div class=\"detailAnswer video\" id=\"modal11\">\n		<div class=\"vidWrapper\" style=\"width: 100%; padding-bottom: 20px; padding-right: 0px; float: none;\">\n			<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" mozallowfullscreen=\"\" scrolling=\"no\" src=\"http://embed.ted.com/talks/candy_chang_before_i_die_i_want_to.html\" style=\"width: 100%;height: 404px;\" webkitallowfullscreen=\"\" width=\"560\"></iframe>\n		</div>\n		<div>\n			<p>\n				This was one of the greatest experiences of my life.&quot; &ndash; student<br />\n				Students at Tulane have opportunities to work with specialists in every field. Name of student, a junior in the name of department, worked with street artist and urban planner Candy Chang on a project sponsored by the Tulane City Center. <a href=\"http://tulane.edu/news/newwave/033111_candy_chang.cfm\">Read More</a>\n			</p>\n		</div>\n	</div-->\nline-height: 34px;\nline-height: 34px;",
+			"<style>\n	.fancybox-inner{overflow: hidden !important; }\n</style>\n<div id=\"tulane\">\n	<div class=\"mainSlides\">\n		<!-- 1.0 What Makes Tulane Worth it? -->\n		<div class=\"active\">\n			<img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.0.jpg\" />\n			<p class=\"photoCap\">\n				Photo by Sally Asher</p>\n			<h1 style=\"width: 400px; right: 56px; top: 36px;\">\n				<span class=\"green\" style=\"font-size: 30px;\">The $61,000 question:</span><br />\n				what makes tulane worth it?\n			</h1>\n		</div>\n\n		<!-- 2.0 Hello Dalai! -->\n		<div>\n			<a class=\"modal\" href=\"#modal1\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.1.jpg\" /> </a>\n			<h1 class=\"greenBack\" style=\"top: 40px; left: 450px; width: 220px;\">\n				HELLO,<br />\n				<span class=\"green\">DALAI!</span><br />\n				<span class=\"innerPara\">THE CHANCE TO MEET WORLD LEADERS. HOT ARTISTS, MOVERS AND SHAKERS. PLUS, THE OCCASIONAL MIGHTY MONK.</span><br />\n				<a class=\"modal clicker\" href=\"#modal1\" style=\"margin-top: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryRead.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 3.0 FACT: Research -->\n		<div style=\"background-color: #dc7a26;\">\n			<h1 class=\"white\" style=\"font-size: 40px; width: 78%; top: 60px; left: 60px; line-height: 40px;\">\n				RESEARCH TAKES US <br />\n				<span class=\"darkGreen\">\n					AROUND THE WORLD <br />\n					AND ACROSS THE STREET.<br />\n				</span>\n				<br />\n				<span class=\"lightOrange innerPara\">Our undergrads research wrens in Australia, architecture in Italy, antibiotic resistance in Tulane's facilities, and everything in between.</span>\n			</h1>\n		</div>\n\n		<!-- 4.0 QUOTE: Rituals, Festivals, Cultures, Holdays... -->\n		<div style=\"background-color: #0f6599;\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\"  style=\"font-size: 36px; width: 80%\">\n				I'VE SEEN <span class=\"green\">RITUALS, FESTIVALS, CULTURES, HOLIDAYS, PEOPLE, MUSIC, AND FOOD</span> THAT NONE OF MY FRIENDS BACK HOME COULD EVEN IMAGINE.\n				<br />\n				<span class=\"source lightOrange innerPara\">Jessica Katz '14</span>\n				<br /><br />\n				<span class=\"innerPara\">New Orleans is frequently called the northernmost Caribbean city. Tulane is the closest you can get to studying abroad without a passport.</span>\n			</h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 104px; right: 157px;\" />\n		</div>\n\n		<!-- 5.0 Tulane Grads Rock the World -->\n		<div>\n			<a class=\"modal\" href=\"#modal6\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.5.3.jpg\" /></a>\n			<h1 class=\"bottomLeft\" style=\"width: 325px; left: 370px; top: 50px\">\n				Tulane Grads<br />\n				<span class=\"green\">Rock The<br />World.</span>\n				<span class=\"innerPara\"> BONNAROO. BLOOMBERG. HBO. CDC. DUPONT. KATE SPADE. YELP.<br />\n				<br />\n				TULANE GRADS MAKE <span class=\"yellow\">THE MOST OUT OF MAKING A LIFE.</span></span> <a class=\"modal clicker\" href=\"#modal6\" style=\"margin-top: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryRead.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 6.0 High Tea with an International Spy -->\n		<div>\n			<a class=\"storyModal modal\" href=\"#modal4\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.3.jpg\" /> </a>\n			<p class=\"photoCap\">\n				Photo by Ryan Rivet, New Wave</p>\n			<h1 class=\"bottomRight greenBack\" style=\"float: left; width: 75%; height: 120px; top: 220px\">\n				<span class=\"upper\" style=\"float: left; width: 80%;\">High tea With an <span class=\"green\">international spy.</span></span><br />\n				<span class=\"innerPara lower\" style=\"width: 80%;\">CHATTING WITH A BRITISH SPY IN THE HOME OF ONE OF AMERICA&#39;S MOST INFLUENTIAL POLITICAL STRATEGISTS? THAT&#39;S CLASS &mdash; TULANE STYLE.</span> <a class=\"modal clicker storyModal\" href=\"#modal4\" style=\"bottom: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryRead.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 7.0 FACT: More than 500 Miles Away -->\n		<div style=\"background-color: #dc7a26;\">\n			<h1 class=\"white\" style=\"font-size: 38px; width: 85%; top: 70px; left: 70px; line-height: 40px;\">\n				SEVENTY-FIVE PERCENT OF TULANE STUDENTS COME FROM MORE THAN <span class=\"darkGreen\">500 MILES AWAY.</span>\n				<br/><br/>\n				<span class=\"innerPara\">Tulane students come from 48 countries and all 50 states. Our 120,000 graduates live, work, and do things that matter all over the globe.</span>\n			</h1>\n		</div>\n\n		<!-- 8.0 QUOTE: Rituals, Festivals, Cultures, Holdays... -->\n		<div style=\"background-color: #0f6599;\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\"  style=\"font-size: 36px; width: 70%\">\n				I’VE INTERNED WITH NBC UNIVERSAL, TELEMUNDO, AND MSNBC. <span class=\"green\">IT ALL STARTED WHEN I MET A RECRUITER ON CAMPUS.</span>\n				<br />\n				<span class=\"source lightOrange innerPara\">Brandon Faske '14</span>\n				<br /><br />\n				<span class=\"innerPara\" style=\"margin-top: 30px\">Students at Tulane have opportunities to meet with more than 250 potential employers every year.</span>\n			</h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 105px; right: 120px;\" />\n		</div>\n\n		<!-- 9.0 Go from BIG EASY to Big Apple -->\n		<div>\n			<a class=\"modal\" href=\"#modal9\"><img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.13.2.jpg\" /></a>\n			<h1 style=\"font-size: 41px; width: 40%; top: 50px; left: 50px;\">\n				Go from<br />\n				<span class=\"green\">big easy</span> to<br />\n				big apple <span class=\"innerPara\">92 businesses networking with 300 business majors in NYC at the biggest Freeman Day ever.</span><br />\n				<a class=\"modal clicker\" href=\"#modal9\" style=\"margin-top: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryRead.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 10.0 Hot Jazz. Cool Jobs -->\n		<div>\n			<a class=\"modal\" href=\"#modal10\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.15.jpg\" /></a>\n			<p class=\"photoCap\">\n				Photo by Sally Asher</p>\n			<h1 class=\"bottomRight greenBack\">\n				Hot Jazz.<br />\n				<span class=\"green\">Cool jobs.</span><span class=\"innerPara\" style=\"width: 65%\">Welcome to the birthplace of jazz &mdash; and site of your next internship.</span> <a class=\"modal clicker\" href=\"#modal10\" style=\"margin-top: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryRead.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 11.0 FACT: BUSINESS -->\n		<div style=\"background-color: #dc7a26;\">\n			<h1 class=\"white\" style=\"font-size: 40px; width: 85%; top: 60px; left: 60px; line-height: 40px;\">\n				<em>BARRON'S</em> LIKES THE WAY WE DO <span class=\"darkGreen\">BUSINESS.</span>\n				<span class=\"innerPara lightOrange\" style=\"margin-top: 30px;\">Tulane's Burkenroad Institute received high praise from Barron's. Clearly, they approve of the Institute's research on resolving ethical dilemmas confronting today's global business leaders.</span>\n			</h1>\n		</div>\n\n		<!-- 12.0 QUOTE: With Every Step -->\n		<div style=\"background-color: #0f6599;\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\" style=\"font-size: 40px; width: 85%;\">\n				<span class=\"green\">With Every Step, there is something new</span> to experience, explore, or get excited about.<br />\n				<span class=\"source lightOrange\">Stephanie Braverman &#39;14</span>\n				<br /><br />\n				<span class=\"innerPara\"><em>The Princeton Review</em> gives Tulane top marks for quality of life.</span>\n			</h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 126px; right: 137px;\" />\n		</div>\n\n		<!-- 13.0 QUOTE: What a Sweet Ride -->\n		<div class=\"greenBackground\">\n			<img alt=\"hero\" src=\"/themes/zen/tulane/images/4life/opt_1.7\" />\n			<p class=\"photoCap\">Photo by Sally Asher</p>\n			<h1 style=\"top: 100px; left: 30px; width: 350px;\">\n				What a <span class=\"green\">sweet ride!</span> \n				<span class=\"innerPara\" style=\"font-size: 16px\">\n						It&#39;s so easy to get around in the Big Easy. The Saint Charles Streetcar zips past Tulane 100 Times a day. And with a Jazzy Pass, it&#39;s the cheapest sweet ride around. \n						<span class=\"green\">What a deal!</span>\n				</span>\n			</h1>\n		</div>\n\n		<!-- 14.0 Pralines, Poboys, and Pods -->\n		<div>\n			<a class=\"modal\" href=\"#modal8\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.12.jpg\" /></a>\n			<h1 class=\"greenBack\" style=\"width: 80%; top: 20px; left: 40px;\">\n				<span style=\"float: left; width: 80%; padding: 0px;\">\n					Pralines, poboys,<br />\n					<span class=\"green\">and pods?</span> \n				</span> \n				<a class=\"modal clicker\" href=\"#modal8\" style=\"margin-top: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryRead.png\" width=\"72\" /></a> \n				<span class=\"innerPara\" style=\"width: 80%;\">\n					Think small. Make a big difference.<br />\n					That’s the kind of opportunity students<br /> \n					at Tulane can't resist.\n				</span>\n			</h1>\n		</div>\n\n		<!-- 15.0 FACT: And that's just the Bs -->\n		<div style=\"background-color: #dc7a26;\">\n			<h1 class=\"white\" style=\"font-size: 40px; width: 90%; top: 50px; left: 50px; line-height: 40px;\">\n				<span class=\"darkGreen\">MADRID, TEL AVIV, CUBA, <br />\n				HONDURAS, COPENHAGEN,<br />\n				SYDNEY, PRAGUE, AND</span><br />\n				AUDUBON PARK\n				<br /><br />\n				<span class=\"darkGreen\" style=\"font-size: 24px; position:relative; top: 8px; line-height: 25px;\">\n					TRAVEL THE WORLD. <br />\n					THEN COME HOME.\n				</span>\n				<span class=\"innerPara lightOrange\" style=\"padding-top: 35px;\">About a third of Tulane students study or do research abroad. But their favorite place is right here in NOLA – especially during Mardi Gras.</span>\n			</h1>\n		</div>\n\n		<!-- 16.0 QUOTE: I see my friend's pictures -->\n		<div style=\"background-color: #0f6599\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\" style=\"width: 80%; font-size: 35px;\">\n				I see my friends&#39; pictures from other schools and think, yeah, we do that here. Then i look at my pictures and go, but <span class=\"green\"><em>this</em> doesn&#39;t happen anywhere else.</span><br />\n				<span class=\"source lightOrange\">Lindsey Curewitz &#39;14</span><br /><br>\n				<span class=\"innerPara\">Take unique classes at Tulane, like Marine Biology (with frequent trips to the Gulf) and Music Culture of NOLA.</span>\n			</h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 77px; right: 102px;\" />\n		</div>\n\n		<!-- 17.0 Real Things That Matter for Real People -->\n		<div>\n			<a class=\"modal\" href=\"#modal7\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.8.jpg\" /></a>\n			<p class=\"photoCap\">Photo by Paula Burch-Celentano</p>\n			<h1 class=\"bottomLeft greenBack\" style=\"width: 67%; left: 180px; height: 160px;\">\n				<span class=\"green\">\n					Real things<br />\n					that matter<br />\n					for real people. \n				</span> \n				<span class=\"innerPara\" style=\"width: 70%;\">One really cool thing about Tulane is that you don&#39;t have to wait four years to start making a difference.</span> \n				<a class=\"modal clicker\" href=\"#modal7\" style=\"bottom: 8px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryVideo.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 18.0 One Kickass Freshman Orientation -->\n		<div>\n			<img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.10.jpg\" />\n			<p class=\"photoCap\">\n				Photo by Sally Asher</p>\n			<h1 class=\"greenBack\" style=\"top: 50px; left: 20px; width: 300px;\">\n				One Kickass <span class=\"green\">Freshman Orientation.</span><span class=\"innerPara\">\n					Swamp tours. Art in City Park. Bowling at a certified landmark. And more jambalaya than a plate should hold. Welcome to Tulane&#39;s NOLA Experience.\n					<br />\n					<span class=\"green\">Priceless.</span>\n				</span>\n			</h1>\n		</div>\n\n		<!-- 19.0 QUOTE: Networked with Tulane Alums -->\n		<div class=\"greenBackground\" style=\"background-color: #0f6599\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\" style=\"width: 80%; font-size: 35px;\">\n				I'VE VISITED OIL REFINERIES, SPOKEN AT A NATIONAL CONFERENCE, <span class=\"green\">AND NETWORKED WITH TULANE ALUMS ACROSS THE COUNTRY.</span>\n				<br />\n				<span class=\"source lightOrange\">Stephen Lee '14</span>\n				<br /><br />\n				<span class=\"innerPara\">100 percent of Tulane students participate in experiential learning opportunities.</span>\n			</h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 109px; right: 307px;\" />\n		</div>\n\n		<!-- 20.0 QUOTE: BEST OF MY LIFE -->\n		<div class=\"greenBackground\" style=\"background-color: #0f6599\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\" style=\"width: 75%; font-size: 40px;\">\n				These past four years have been the best of my life. <span class=\"green\">I can&#39;t imagine having spent them any other way.</span><br />\n				<span class=\"source lightOrange\">Owen Knight &#39;14</span>\n				<br /><br />\n				<span class=\"innerPara\"><em>The Princeton Review</em> rates Tulane Number 4 in the nation for happiest students. </span>\n			</h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 90px; right: 320px;\" />\n		</div>\n\n		<!-- 21.0 Ultimate Comfort Food -->\n		<div class=\"greenBackground\">\n			<a class=\"modal\" href=\"#modal5\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.4.jpg\" /> </a>\n			<h1 class=\"bottomRight greenBack\" style=\"width: 200px\">\n				<span class=\"green\">Ultimate</span><br />\n				Comfort<br />\n				Food. <span class=\"innerPara\">A CITY KNOWN FOR SINFULLY GOOD EATS. A UNIVERSITY DEVOTED TO PUBLIC HEALTH. DELICIOUS POSSIBILITIES.</span><br />\n				<a class=\"modal clicker\" href=\"#modal5\" style=\"margin-top: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryVideo.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 22.0 Change the Rhythm of the City -->\n		<div>\n			<a class=\"modal\" href=\"#modal12\"> <img alt=\"heroLanding\" src=\"/themes/zen/tulane/images/4life/opt_1.17.2.jpg\" /> </a>\n			<h1 style=\"top: 100px; left: 50px; width: 300px;\">\n				Change The Rhythm<br />\n				<span class=\"green\">of the city.</span> <span class=\"innerPara lower\">THINK YOU HAVE WHAT IT TAKES TO BUILD A BETTER CITY? <span class=\"yellow\">BRING IT ON!</span></span><br />\n				<a class=\"modal clicker\" href=\"#modal12\" style=\"margin-top: 20px;\"><img height=\"72\" src=\"/themes/zen/tulane/images/4life/btnStoryRead.png\" width=\"72\" /></a>\n			</h1>\n		</div>\n\n		<!-- 23.0 FACT: $102 MILLION -->\n		<div style=\"background-color: #dc7a26;\">\n			<h1 class=\"white\" style=\"font-size: 40px; width: 80%; top: 50px; left: 50px; line-height: 40px;\">\n				In 2013-2014, MORE THAN <span class=\"darkGreen\">$102 MILLION</span> WAS AWARDED IN TULANE-FUNDED <span class=\"darkGreen\">GRANTS AND SCHOLARSHIPS.</span><br /><br />\n				<span class=\"innerPara lightOrange\">99 percent of freshmen with demonstrated need were offered financial aid. The average total package was $34,542.</span>\n			</h1>\n		</div>\n\n		<!-- 24.0 QUOTE: THAT’S MY TULANE EXPERIENCE. -->\n		<div style=\"background-color: #0f6599\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\" style=\"width: 80%; font-size:34px\">\n				I GOT A FIRST-CLASS EDUCATION, WORKED ALONGSIDE CREATIVE PROFESSORS, DANCED AT MARDI GRAS, AND MET PEOPLE FROM ALL OVER THE WORLD. <span class=\"green\">THAT’S MY TULANE EXPERIENCE.</span><br />\n				<span class=\"source lightOrange\">John Owens '14</span>\n				<br /><br /><br />\n				<span class=\"innerPara\">Tulane is more than an education; it's a way of life.</span>\n			</h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 82px; right: 183px;\" />\n		</div>\n\n		<!-- FACT: And that's just the Bs -->\n		<!--div style=\"background-color: #dc7a26;\">\n			<h1 class=\"white\" style=\"font-size: 70px; width: 90%; top: 30px; left: 50px;\">\n				Beijing<br />\n				Berlin<br />\n				Brazil<br />\n				<span class=\"darkGreen\" style=\"font-size: 38px; position:relative; top: 8px;\">And that&#39;s just the B&#39;s, Baby!</span> \n				<span class=\"innerPara white\" style=\"padding-top: 35px;\">100 Percent of Tulanians<br />\n					Study Abroad, Intern,<br />\n					or do Service Learning.<br />\n					<span class=\"lightOrange\">How&#39;s that for value?</span>\n				</span>\n			</h1>\n		</div-->\n\n\n		<!-- QUOTE: Tulane Challenged Me -->\n		<!--div style=\"background-color: #0f6599\">\n			<img class=\"quote pre\" src=\"/themes/zen/tulane/images/4life/quotePre.png\" />\n			<h1 class=\"quote\" style=\"width: 82%;\">\n				<span class=\"green\">Tulane challenged me</span> to be adventurous. I was a bostonian who didn&#39;t like seafood. Now i can&#39;t imagine life without crawfish.<br />\n				<span class=\"source lightOrange\">Jill deRosas &#39;14</span></h1>\n			<img class=\"quote post\" src=\"/themes/zen/tulane/images/4life/quotePost.png\" style=\"bottom: 52px; right: 343px;\" />\n		</div-->\n	</div>\n	\n	<!-- 2.1 Modal: Dalai! -->\n	<div class=\"modalDiv detailAnswer staticParagraph\" id=\"modal1\">\n		\n		<!-- Main Blurb -->\n		<div>\n			<h2 style=\"line-hieght: 1.0\">\n				You never know who you might meet at Tulane.</h2>\n			<p class=\"ieFix\">U.S. Presidents George H.W. Bush and Bill Clinton. Brad Pitt. Ellen DeGeneres. Snoop Dog. Superbowl champs, Saints quarterback Drew Brees and head coach Sean Payton. Anderson Cooper. Janet Reno. Ralph Nader. The guy who founded Yahoo founder, David Filo! And Ruth Benerito, invented no-iron cotton. Even Hanson. (Yes, the boy band!) Tulane is a must-stop in a city that will never stop amazing you.</p>\n		</div>\n\n		<div class=\"innerSlider\">\n			<!-- 2.1 Anderson Cooper -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1a.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">Anderson Cooper speaking at graduation.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Sally Asher</p>\n				</div>\n			</div>\n			<!-- 2.2 Jim Parsons -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1b.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">Jim Parsons from <em>The Big Bang Theory</em> filming an episode of <em>Who Do You Think You Are?</em> at Tulane.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Sally Asher</p>\n				</div>\n			</div>\n			<!-- 2.3 Snoop Dogg -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1c.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">Snoop Dogg gets into the Green Wave.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Tulane Public Relations</p>\n					<!--p><span style=\"font-size: 10px; font-style: italic;\">Photo by Tulane Public Relations</span></p--></div>\n			</div>\n			<!-- 2.4 Harry SHearer -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1d.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">Emmy- and Grammy-nominated Harry Shearer, star of <em>Spinal Tap</em> and <em>The Simpsons</em>.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Tulane Public Relations</p>\n					<!--p><span style=\"font-size: 10px; font-style: italic;\">Photo by Tulane Public Relations</span></p--></div>\n			</div>\n			<!-- 2.5 Bill Clinton -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1e.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">Former Presidents Bill Clinton and George H.W. Bush at Tulane graduation.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Sally Asher</p>\n				</div>\n			</div>\n			<!-- 2.6 Ellen -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1f.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">Ellen DeGeneres and Harry Connick, Jr. join the second line at Tulane&#39;s graduation.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Sally Asher</p>\n				</div>\n			</div>\n			<!-- 2.7 Saints -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1g.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">Superbowl Champs, the New Orleans Saints, practicing on Tulane&#39;s campus.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Sally Asher</p>\n				</div>\n			</div>\n			<!-- 2.8 James S. Turley -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1h.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 20px;\">James S. Turley, chairman and CEO of Ernst &amp; Young discussed global ethics at the Burkenroad Symposium</p>\n					<!--p style=\"font-size:10px; color: #000;\">Photo by Sally Asher</p-->\n				</div>\n			</div>\n			<!-- 2.9 Chaz Bono -->\n			<div>\n				<img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.1.1i.jpg\" />\n				<div>\n					<p style=\"margin-bottom: 10px;\">Chaz Bono spoke about his bestselling book, <em>Transition: Becoming Who I Was Meant to Be</em>, at an event planned by student-run Tulane University Campus Programming.</p>\n					<p style=\"font-size:10px; color: #000;\">Photo by Sally Asher</p>\n				</div>\n			</div>\n		</div>\n	</div>\n\n	<!-- 5.1 Modal: Tulane Grads -->\n	<div class=\"detailAnswer powerFacts\" id=\"modal6\">\n		<p style=\"margin-right: 10px;\">\n			<strong class=\"green\">It takes grit, determination, and a heck of a lot of chutzpah to make it at Tulane.</strong> But after four years, our graduates have the chops to compete in any industry, tackle any problem, solve any riddle.\n		</p>\n		<p style=\"margin-right: 10px;\">\n			They prove it daily at places like NBC, Sirius Radio, Google, Delta, Bloomberg, The CDC and the U.S. State Department. They&#39;re biochemists, doctors, lawyers, music execs, teachers, film producers, actors. The list goes on. Our parting advice to them: Keep on Rocking.\n		</p>\n		<div class=\"third\">\n			<h1 style=\"color: #0f6599\">Where They Work</h1>\n			<ul class=\"job-list\">\n				<li>Presidential Management Fellow, Centers for Disease Control</li>\n				<li>Research Coordinator, Children's Healthcare of Atlanta</li>\n				<li>Market Analyst, Northwestern University</li>\n				<li>Policy Analyst, Google</li>\n				<li>Vice President, Stifel</li>\n				<li>Foreign Service Officer, U.S. Department of State</li>\n				<li>Chief of Staff, State of Maryland</li>\n				<li>Brand Public Relations, The Richards Group</li>\n				<li>Network Security &amp; Cloud Solutions Analyst, Vail Resorts</li>\n				<li>Museum Educator, Denver Art Museum</li>\n				<li>Chemical Engineer, INEOS USA LLC</li>\n				<li>Program Manager, University of Texas Cancer Center</li>\n				<li>Assistant Regional Director, American Jewish Committee</li>\n				<li>CEO, Hotel Bergs</li>\n				<li>Epidemiologist/Researcher, Wits Health Consortium</li>\n				<li>Chief Stadia Officer, VP of Marketing, FIFA Women's World Cup Canada 2015</li>\n				<li>VP of Marketing, Rebel Entertainment</li>\n				<li>Journalist, <em>Investor's Business Daily</em></li>\n				<li>Comedy Agent, APA, Inc.</li>\n				<li>Tax Accountant, Marcum LLP</li>\n				<li>Radiation Oncologist, Premiere Oncology</li>\n				<li>Global Web Producer, Royal Caribbean International</li>\n				<li>CEO, Bass Egg LLC</li>\n				<li>Analyst, Gadinski Real Estate</li>\n				<li>Epidemiologist, LA Office of Public Health</li>\n				<li>Process Safety Engineer, Shell Oil</li>\n				<li>Director of Finance and Operations, Crescent City Schools</li>\n				<li>Senior Consultant/TV Host, RPM &amp; CO/NOLA Wrap Up</li>\n				<li>International PR Associate, Tory Burch</li>\n				<li>Logistics Coordinator, Ideeli</li>\n				<li>Research Strategist, <em>Hearst Magazine</em></li>\n				<li>Sales Account Manager, Bloomberg</li>\n				<li><em>Lifestyle Digital Group Assistant, Time Inc.</em></li>\n				<li>Casting, Tara Rubin Casting</li>\n				<li>Senior Consultant, Razorfish</li>\n				<li>Attorney, Kings County DA</li>\n				<li>Procurement Associate, Kate Spade New York</li>\n				<li>Sales &amp; Marketing Manager, Universal Studios Waterpark</li>\n				<li>Financial Analyst, Wells Fargo Bank</li>\n				<li>Research Associate, Calithera Biosciences, Inc.</li>\n				<li>Marketing Manager, Marketsource</li>\n				<li>Marketing Strategy/Planning, Carat</li>\n				<li>Deputy Director, Pacific NW Chamber of Commerce</li>\n				<li>Strategist, Wunderman</li>\n			</ul>\n		</div>\n		<div class=\"third\">\n			<h1 style=\"color: #0f6599\">Where They Go to Grad School</h1>\n			<ul class=\"job-list\">\n				<li>American University</li>\n				<li>Auburn University</li>\n				<li>Baylor College of Medicine</li>\n				<li>Boston College</li>\n				<li>Boston University</li>\n				<li>Brown University</li>\n				<li>California Institute of Technology</li>\n				<li>City University London</li>\n				<li>College of William &amp; Mary</li>\n				<li>Columbia University</li>\n				<li>Cornell University</li>\n				<li>Creighton University</li>\n				<li>DePaul University</li>\n				<li>Emory University</li>\n				<li>Florida State University</li>\n				<li>George Washington University</li>\n				<li>Georgetown University</li>\n				<li>Graduate Institute of International and Development Studies</li>\n				<li>Harvard University</li>\n				<li>Hofstra University</li>\n				<li>Massachusetts General Institute of Health Professions</li>\n				<li>Medical College of Wisconsin</li>\n				<li>Michigan State University</li>\n				<li>New York University</li>\n				<li>Ohio State University</li>\n				<li>Rutgers University</li>\n				<li>Stanford University</li>\n				<li>Temple University</li>\n				<li>The Chicago School of Professional Psychology</li>\n				<li>Tulane University</li>\n				<li>University of Alabama, Birmingham</li>\n				<li>University of Arizona</li>\n				<li>University of California</li>\n				<li>University of California-Davis</li>\n				<li>University of California-Irvine</li>\n				<li>University of California-Los Angeles</li>\n				<li>University of California-Santa Barbara</li>\n				<li>University of Chicago</li>\n				<li>University of Colorado</li>\n				<li>University of Florida</li>\n				<li>University of Georgia</li>\n				<li>University of Hawaii at Manoa</li>\n				<li>University of Illinois</li>\n				<li>University of London</li>\n				<li>University of Maryland</li>\n				<li>University of Michigan</li>\n			</ul>\n		</div>\n		<div class=\"third\">\n			<h1 style=\"color: #0f6599\">\n				Where They Live\n			</h1>\n			<ul class=\"job-list\">\n				<li>New Orleans</li>\n				<li>New York City</li>\n				<li>Malta</li>\n				<li>Trinidad</li>\n				<li>Monterrey</li>\n				<li>San Francisco</li>\n				<li>Hong Kong</li>\n				<li>New Delhi</li>\n				<li>Johannesburg</li>\n				<li>London</li>\n				<li>Vancouver</li>\n				<li>Bogota</li>\n				<li>Chicago</li>\n				<li>Lima</li>\n				<li>Tokyo</li>\n				<li>Kuala Lumpur</li>\n				<li>Cardiff</li>\n				<li>San Juan</li>\n				<li>Paris</li>\n				<li>Boston</li>\n				<li>Rabat</li>\n				<li>Guaynabo</li>\n				<li>Bavaria</li>\n				<li>Brunei</li>\n				<li>Amsterdam</li>\n				<li>Geneva</li>\n				<li>Atlanta</li>\n				<li>Saint Louis</li>\n				<li>Dallas</li>\n				<li>Denver</li>\n				<li>Houston</li>\n				<li>Miami</li>\n				<li>Los Angeles</li>\n				<li>Istanbul</li>\n				<li>Orlando</li>\n				<li>Philadelphia</li>\n				<li>Seattle</li>\n				<li>Rabat, Morocco</li>\n				<li>Bavaria</li>\n				<li>Toronto</li>\n				<li>Washington, D.C.</li>\n				<li>Austin</li>\n				<li>Baltimore</li>\n				<li>Raleigh/Durham</li>\n				<li>Nashville</li>\n				<li>Baton Rouge</li>\n				<li>Tampa/St. Petersburg</li>\n				<li>Little Rock</li>\n				<li>Jacksonville</li>\n				<li>Albuquerque</li>\n			</ul>\n		</div>\n	</div>\n\n	<!-- 6.1 Modal: High Tea -->\n	<div class=\"modalDiv detailAnswer story\" id=\"modal4\">\n		<h1 class=\"green\">\n			Only at Tulane. Only in New Orleans.\n		</h1>\n		<div class=\"col1\">\n			<p>Sure, professors at other places invite students to their homes. But at Tulane, one of our professors happens to be James Carville, American political commentator, media personality, and lead strategist for Bill Clinton&#39;s presidential campaign.</p>\n		</div>\n		<div class=\"col2\">\n			<p>And when a guy like Carville invites you to his house&mdash;it&rsquo;s to meet a real-life international man of mystery, Richard Thompson. Carville&rsquo;s &ldquo;Culture of Politics&rdquo; class sat down with the British Secret Intelligence Service&rsquo;s former Afghanistan station chief for an intimate discussion. Tea, of course, was served.</p>\n			<img alt=\"spy\" class=\"storyImg\" src=\"/themes/zen/tulane/images/4life/opt_1.3.2.jpg\" />\n		</div>\n	</div>\n\n	<!-- 9.1 Modal: Go from BIG EASY -->\n	<div class=\"modalDiv detailAnswer staticParagraph\" id=\"modal9\">\n		<div>\n			<p>\n				<strong><span class=\"green\">Get face-to-face with scores of prospective employers.</span></strong><br />\n				Freeman Days let students meet and interview with lots of different companies. Every year, Freeman School of Business students travel to New York City for a networking event organized just for them. Freeman is well known in the Big Apple. This year, the NASDAQ gave the School an extra special Times Square birthday wish!<br />\n				<a href=\"http://www.freeman.tulane.edu/freemandays/\">Read More</a>\n			</p>\n		</div>\n		<div>\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.13.1.jpg\" /></div>\n		</div>\n	</div>\n\n	<!-- 10.1 Modal: Hot Jobs. Cool Jazz. -->\n	<div class=\"detailAnswer video\" id=\"modal10\">\n		<div class=\"vidWrapper\" style=\"width: 100%; padding-right: 0px;\">\n			<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"//www.youtube.com/embed/FBbr1aa-MC0\" style=\"width: 100%; height: 404px;\" width=\"560\"></iframe>\n			<div>\n				<p style=\"padding-top: 20px;\">\n					<span class=\"green\" style=\"font-weight: bold\">George Wilde came to Tulane to study philosophy.</span> As a musician, though, he wasted no time diving into New Orleans&#39; thriving musical culture. He interned at Roots of Music and Preservation Hall. And he helped launch the Trombone Shorty Academy, mentoring the next gen of NOLA musicians. George&#39;s story may be extraordinary, but it&#39;s not unusual. That&#39;s just the way Tulanians <em>rouler</em>.\n				</p>\n				<p>Read <a href=\"http://tulanepsip.wordpress.com/2013/04/29/music-is-a-way-to-overcome-trials-and-lead-a-successful-and-fulfilling-life-a-look-at-george-wilde-and-the-trombone-shorty-foundation/\">George&#39;s blog</a> about the Trombone Shorty Academy.</p>\n				<p>BTW &mdash; George&#39;s internship with Preservation Hall turned into a paying gig. Only at Tulane. Only in New Orleans.</p>\n			</div>\n		</div>\n	</div>\n\n	<!-- 14.1 Modal: Pralines -->\n	<div class=\"modalDiv detailAnswer staticParagraph\" id=\"modal8\">\n		<div>\n			<h2 class=\"green\">Build up the economy&mdash;one small business at a time.</h2>\n			<p>\n				Emphasis on SMALL. Students in the Tulane School of Architecture's UrbanBuild program develop, design, and build tiny, mobile \"pods\" that help local retailers set up shop. It’s quick, affordable, and easy. We’re changing the way small business works—and moves. We call that real solutions for real people.<br />\n				<a href=\"http://architecture.tulane.edu/news/2013/08/article-638\">Read More</a>\n			</p>\n		</div>\n		<div class=\"innerSlider\">\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/1.12.1a.jpg\" /></div>\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/1.12.1b.jpg\" /></div>\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/1.12.1c.jpg\" /></div>\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/1.12.1d.jpg\" /></div>\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/1.12.1e.jpg\" /></div>\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/1.12.1f.jpg\" /></div>\n		</div>\n		<p class=\"innerPhotoCap\">All photos by UrbanBuild</p>\n	</div>\n\n	<!-- 17.1 Modal: Real Things that matter -->\n	<div class=\"detailAnswer video\" id=\"modal7\">\n		<div class=\"vidWrapper\" style=\"height: 315px;\">\n			<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"//www.youtube.com/embed/JK7NZCG99kk\" width=\"420\"></iframe>\n		</div>\n		<div>\n			<p><span class=\"green\" style=\"font-weight: bold\">Why wait until graduation to do what&rsquo;s right?</span> Haley Burns was barely a sophomore when she founded Fund 17, a student-run micro-financing organization to serve low-income entrepreneurs. Recently, Fund 17 won a $10,000 NewDay Challenge grant. Now they can expand their operations. And do more that matters for real people.\n		</div>\n	</div>\n\n	<!-- 21.1 Modal: Ultimate Food -->\n	<div class=\"detailAnswer video\" id=\"modal5\">\n		<div class=\"vidWrapper\" style=\"height: 315px;\">\n			<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"//www.youtube.com/embed/goFb-gnZHyQ\" width=\"420\"></iframe>\n		</div>\n		<div>\n			<p><span class=\"green\" style=\"font-weight: bold;\">Who knew getting healthy could be so delicious?</span> We teach students and the community the tips, tricks, and tools they need to heal themselves from the inside out. High blood pressure? Cardiac disease? Diabetes? What else would you expect from a university known for public health in a city known for food?</p>\n		</div>\n	</div>\n\n	<!-- 22.1 Modal: Change the Rhythm -->\n	<div class=\"modalDiv detailAnswer staticParagraph\" id=\"modal12\">\n		<div>\n			<p><strong><span class=\"green\">Putting theory into practice&mdash;that&#39;s what Tulanians do.</span></strong></p>\n			<p>For example, students work with our Prevention Research Center to help make it easier and safer for people to get around NOLA on bike, on foot, or on public transportation.<br /><a href=\"http://tulane.edu/publichealth/pressroom/plans-for-complete-streets-roll-forward-in-nola.cfm/\">Read More</a></p>\n		</div>\n		<div>\n			<div><img alt=\"kitten\" src=\"/themes/zen/tulane/images/4life/opt_1.17.1.jpg\" /></div>\n		</div>\n	</div>\n\n	<!-- Modal:  -->\n	<!--div class=\"detailAnswer video\" id=\"modal11\">\n		<div class=\"vidWrapper\" style=\"width: 100%; padding-bottom: 20px; padding-right: 0px; float: none;\">\n			<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" mozallowfullscreen=\"\" scrolling=\"no\" src=\"http://embed.ted.com/talks/candy_chang_before_i_die_i_want_to.html\" style=\"width: 100%;height: 404px;\" webkitallowfullscreen=\"\" width=\"560\"></iframe>\n		</div>\n		<div>\n			<p>\n				This was one of the greatest experiences of my life.&quot; &ndash; student<br />\n				Students at Tulane have opportunities to work with specialists in every field. Name of student, a junior in the name of department, worked with street artist and urban planner Candy Chang on a project sponsored by the Tulane City Center. <a href=\"http://tulane.edu/news/newwave/033111_candy_chang.cfm\">Read More</a>\n			</p>\n		</div>\n	</div-->\nline-height: 34px;\n",
+			"'",
+			"\"",
+			"&trade;",
+			"&reg;",
+			"/Feb/",
+			"face",
+			"sb",
+			".index()",
+			"face-default"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/www/fauxgeek.com/apps/duel-craft/index.php",
+					"settings":
+					{
+						"buffer_size": 8771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1040,
+								1040
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/www/fauxgeek.com/apps/duel-craft/js/gameInit.js",
+					"settings":
+					{
+						"buffer_size": 10822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1819,
+								1819
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/www/fauxgeek.com/apps/duel-craft/js/gameplay.js",
+					"settings":
+					{
+						"buffer_size": 3132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								912,
+								912
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "/C/www/fauxgeek.com/apps/duel-craft/scripts/joinSession.php",
+					"settings":
+					{
+						"buffer_size": 1628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								709,
+								709
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/www/fauxgeek.com/apps/duel-craft/scripts/checkForHit.php",
+					"settings":
+					{
+						"buffer_size": 2327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1113,
+								1113
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.516222479722,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 185.0
+	},
+	"output.git":
+	{
+		"height": 24.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/www/fauxgeek.com/project/fgdc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true
+}
